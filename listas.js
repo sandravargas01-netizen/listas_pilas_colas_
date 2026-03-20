@@ -15,3 +15,12 @@ for (let i = 0; i < nombres.length; i++) {
   console.log("Nombre:", nombres[i]);
   console.log(nombres["samara"])
 }
+
+
+let productos = ["tomate", "huevos", "arroz", "sal"]
+productos.unshift ("azucar");
+console.log (productos);
+
+let productos2 = ["tomate", "huevos", "arroz", "sal"]
+productos2.push()
+console.log (productos2);
