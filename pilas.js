@@ -20,8 +20,6 @@ console.log(elementoEliminado);
   //{else}  console.log[pila];
 
 
-
-
 let pila2 = [1,2,3,4]
 if (pila2.length ===0){
     console.log("la pila esta vacia")
@@ -30,3 +28,12 @@ if (pila2.length ===0){
         console.log(e)
 }
 
+let pilalibros = [
+    { id:1, name: "el principito"}
+    ,{id:2, name: "el señor de los anillos"}]
+
+    // mostrar si la pila esta vacia
+    // crear un arreglo y simular el funcionamiento de una pila de libros LIFO
+
+
+    
