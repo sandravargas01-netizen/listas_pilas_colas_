@@ -4,10 +4,15 @@ lista.unshift ("caracol");
 console.log (lista);
 
 
-//lista.push "agrega elemento al final de la lista"
-// lista.unsshift(0); eliminar el ultimo elemento de la lista 
-// lista.pop eliminar el primer elemnto de la lista
-// lista.shift(); imprimir la lista
+// lista.push("elemento"); → agrega elemento al FINAL de la lista
+
+// lista.unshift("elemento"); → agrega elemento al INICIO de la lista
+
+// lista.pop(); → elimina el ÚLTIMO elemento de la lista
+
+// lista.shift(); → elimina el PRIMER elemento de la lista
+
+// console.log(lista); → imprime la lista
 
 let nombres = ["sandra","andres", "samara"]
 
@@ -24,3 +29,4 @@ console.log (productos);
 let productos2 = ["tomate", "huevos", "arroz", "sal"]
 productos2.push()
 console.log (productos2);
+
